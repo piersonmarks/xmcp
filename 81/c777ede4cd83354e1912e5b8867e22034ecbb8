@@ -1,0 +1,19 @@
+packages/plugins/workos/src/provider.ts
+  s_f0233df6e4bd19::t_6a5bb71386fc91 69-70,72-82,85,91-107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "81c777ede4cd83354e1912e5b8867e22034ecbb8",
+  "prompts": {},
+  "sessions": {
+    "s_f0233df6e4bd19": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8d38cb58-52f0-48b5-8106-7bbf548d92df",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Pierson Marks <pierson@jellypod.ai>"
+    }
+  }
+}
